@@ -11,7 +11,7 @@ The model is formulated as a mixed-integer linear programming (`MILP`) problem a
 
 ## Main Program
 
-- `W-PV-DG-PHS_V10 - PHS - 45 years configuration +curtailment iteration.ipynb`
+- `Hybrid-Capacity-Planning-MILP`
 
 This notebook is the main program used for the annual capacity-planning analysis.
 
